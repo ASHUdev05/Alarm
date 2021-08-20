@@ -1,5 +1,5 @@
 # Alarm
-(https://img.shields.io/github/license/ASHUdev05/Alarm)
+![example workflow](https://img.shields.io/github/license/ASHUdev05/Alarm)
 An Alarm written in python 3 
 
 ***
